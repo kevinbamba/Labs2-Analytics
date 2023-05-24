@@ -1,15 +1,13 @@
 # Proyecto-Individual-2
 
-# PROYECTO INDIVIDUAL DE ANALISIS DE DATOS
+# Análisis Exploratorio de Datos y Dashboard
 
-# Introduccion
+Este proyecto consiste en un análisis exploratorio de datos (EDA) y la creación de un dashboard interactivo. El objetivo es analizar un conjunto de datos, encontrar patrones, relaciones y crear visualizaciones informativas que ayuden a contar una historia a partir de los datos.
+## Contenido del Repositorio
 
-En este proyecto, el trabajo consistio en analizar un set de datos recibido por la Organización de Aviación Civil Internacional (OACI),
-la cual a traves de un reporte de accidentes aereos de los ultimos 103 años espera que nosotros podamos evaluar correlaciones u otros temas que pudieran ser de 
-interes para la organizacion. Tamnien nos animaron a buscar otros dataset para respaldar nuestra investigacion.
-
-## Resultado del Analisis
-
+-ETL + EDA.ipynb: Notebook de Jupyter que contiene el análisis exploratorio de datos. Se realiza un EDA exhaustivo, incluyendo resumen de estadísticas descriptivas, entre otros. 
+-Se utilizan librerías como pandas, matplotlib y seaborn para generar visualizaciones y realizar los análisis pertinentes.
+-PI2-Analytics.pbix: Archivo del panel de control interactivo creado con Power BI. El dashboard presenta visualizaciones significativas que destacan los hallazgos clave del análisis exploratorio
 
 ## HABILIDADES TECNICAS
 > Analisis exploratorio de datos <br />
@@ -22,10 +20,8 @@ interes para la organizacion. Tamnien nos animaron a buscar otros dataset para r
 
 > Creatividad en diseño
 
-## HERRAMIENTAS USADAS
-> PYTHON <br />
-> POWER BI <br />
+## Conclusiones 
 
-## LIBRERIAS IMPORTADAS
-> pandas <br />
-> timestring <br />
+Este proyecto ha permitido realizar un análisis exhaustivo de los datos, descubriendo patrones, relaciones y hallazgos significativos. A través del dashboard interactivo, se pueden visualizar los KPIs sugeridos y explorar los datos de manera más detallada.
+
+
