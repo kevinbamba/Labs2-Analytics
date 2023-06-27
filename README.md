@@ -1,4 +1,4 @@
-# Proyecto-Individual-2
+# <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
 
 # Análisis Exploratorio de Datos y Dashboard
 
